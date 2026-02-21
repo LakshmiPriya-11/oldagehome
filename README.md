@@ -1,1 +1,1 @@
-# oldagehome
+The Old Age Home Management System is a software application designed to efficiently manage the daily operations of an old age home. It helps administrators handle resident records, staff management, medical details, room allocation, billing, and overall facility management in a structured and digital way.
